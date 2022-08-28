@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>clipped8_06_08.jpg</filename>
+	<path>C:\Users\Samantha\OneDrive - Queensland University of Technology\2022\Semester 2\EGH400-2\Git\Canada Glacier data\images\test\clipped8_06_08.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>240</width>
+		<height>240</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Vegetation</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>76</xmax>
+			<ymax>63</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Vegetation</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>1</ymin>
+			<xmax>151</xmax>
+			<ymax>30</ymax>
+		</bndbox>
+	</object>
+</annotation>
